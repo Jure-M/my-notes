@@ -1,0 +1,12 @@
+{
+  "nav": {
+    "about": "About",
+    "music": "Music",
+    "contact": "Contact"
+  },
+  "languages": {
+    "title": "Lang",
+    "hr": "Croatian",
+    "en": "English"
+  }
+}
